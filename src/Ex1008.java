@@ -9,7 +9,7 @@ public class Ex1008 {
     double calculo = valorHoras*qtdHoras;
 
     System.out.println("NUMBER = "+ numeroFuncionario);
-    System.out.printf("SALARY = U$ %.2F%n", calculo);
+    System.out.printf("SALARY = U$ %.2f%n", calculo);
     
 }
 }
