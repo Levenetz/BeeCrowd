@@ -9,7 +9,8 @@ public class Ex1014 {
         String resultado = String.format("%.3f",consumoMedio);
         
     System.out.println(resultado + " km/l");        
-        
+    input.close();
+
                
                 
 }

@@ -9,5 +9,7 @@ public class Ex1009 {
     double montanteTotal = salario + totalVendas * 0.15;
 
     System.out.printf("TOTAL = R$ %.2F%n", montanteTotal );
+    input.close();
+
 }
 }

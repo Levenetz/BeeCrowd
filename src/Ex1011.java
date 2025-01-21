@@ -10,6 +10,8 @@ public class Ex1011 {
     double resultadoFinal = valorInicial*cubo*pi;
 
     System.out.printf("VOLUME = %.3f%n", resultadoFinal);
+    input.close();
+
 
 
 }

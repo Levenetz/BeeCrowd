@@ -7,5 +7,7 @@ public class Ex1005 {
     Double MEDIA = ((A *3.5) + (B*7.5)) /11.0;
 
     System.out.printf("MEDIA = %.5f%n", MEDIA);
+    input.close();
+
 }
 }

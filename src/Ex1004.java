@@ -7,5 +7,7 @@ public class Ex1004 {
     int PROD = A*B;
 
     System.out.println("PROD = " + PROD);
+    input.close();
+
 }
 }

@@ -9,5 +9,7 @@ public class Ex1002 {
 
     
     System.out.printf("A=%.4f%n", A);
+    input.close();
+
 }
 }

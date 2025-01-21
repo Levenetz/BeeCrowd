@@ -7,5 +7,7 @@ public class Ex1001 {
     int X = A+B;
 
     System.out.println("X = " + X);
+    input.close();
+
 }
 }

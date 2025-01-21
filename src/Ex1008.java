@@ -10,6 +10,7 @@ public class Ex1008 {
 
     System.out.println("NUMBER = "+ numeroFuncionario);
     System.out.printf("SALARY = U$ %.2f%n", calculo);
-    
+    input.close();
+
 }
 }
