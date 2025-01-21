@@ -16,6 +16,8 @@ public class Ex1015 {
         double resultado = Math.sqrt(soma);
 
         System.out.printf("%.4f%n",resultado);
+        input.close();
+
 }
 
 }

@@ -11,7 +11,8 @@ public class Ex1013 {
         int compare2 = retornaMaior(compare1,valorC);
               
                 
-        
+        input.close();
+
                
                 System.out.println(compare2+" eh o maior");
         }
@@ -19,5 +20,6 @@ public class Ex1013 {
         public static int retornaMaior(int numero1, int numero2){
     int maior = (numero1 +numero2+Math.abs(numero1-numero2))/2;
     return maior;
+
 }
 }

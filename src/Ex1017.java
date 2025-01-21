@@ -10,6 +10,7 @@ public class Ex1017 {
     double resultado = (tempoGasto*velocidadeMedia) / consumo;
 
     System.out.printf("%.3f%n",resultado);
-    
+    input.close();
+
 }
 }
